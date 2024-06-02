@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<a href="Index.html">Visit W3Schools.com!</a>
